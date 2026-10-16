@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="312" height="66" viewBox="0 0 312 66">
+<style>
+@font-face{font-family:'Kuaile';src:url(data:font/woff2;base64,d09GMgABAAAAAAWcAA0AAAAACUgAAAVKAAIAQgAAAAAAAAAAAAAAAAAAAAAAAAAAHCAGYAB0EQgKiSyHawE2AiQDKAsWAAQgBYNeByAMBxuNB1GULlIG4EdCdRs9xkmSJCme+kJjQptbBPT35r5ylQ8rWadKpaeShkqzTIQO08QCHtH/E57+S+6CgoOYdjCj+QugPu2naiyB2AFh8vKp7bU3Il+hB07PKFJju///3vHVp/9XQJeyUBMa655LnU+NZd3GsvrUGkaBvaJJWbaWWeCc3w1f1xZDdXrdt6EvCECdI2fEOCOvDFgYUPwHADlNJCYABeI9WQVgOhYJF2AKZhiuUIU72e/SU+EAuL5cRB3+jwDpDWYAARCRvwC67h57AhoQohhYbVwP4e2uC8civtJX1DWHbncj+4+/mF8vyW/+f7nx6foVK24v/jqTGjmo24gOkUBgHgFR/AcdVScNoDndegBxCUq2yENICL0G9DJYZ4+xwsIS6/UMxmrWktVhvZbFBsqIjbrOHIHJnAnmxRFPB5noedco29ZnxL0y0TJ7+YAwWLyvkZkI4kbT9+mxuh9MYSZaXBXCmmcMe/waTZ5XSGK3fiu9eGXeIKWVGtD7GINThciM2qLfx5SbaUuTp6v0ckF3U5rl6dDNJZicyTpUK6FWpPJQyi4z5FSPeNMWVxNq2U5NuR3rOMWryuLFrZwYl5a5+PEI2XrE9c1MtKg2g90S0H5wQQlJNoZD3YJAos3akHkLoaJFTzF62IYIrIHTP4jPBxT9M3QZKtvsPrxsXGzjU5TVRQd9QPr991MsEgtUsS32h9/nlmP5w3LA3wGVZrhUohkdYcTyX7vFuf/3KXNfl3e8pM88v9gEUJ3TTzISs5HjDhnZZLUJfRBf7D/yQTHHTwleLdhmkJUTi0L80sIOt1J4J8VPqPDyLFuiouXKshoKtZJIVNtIU1JbBnUp42zSbk8iXniFL56Cu1VQLVde0D9swcKcCe4ULxWEbVRPUVDiHW2ntQXmnI5/PSg53TummqFiOj7yUC6VKMWcy+5a8baH5tRbPS3JAbRsNKoP3nSHpwH3GjlZYsz91/7udOfmyl7l3qt63kzOi9iBcyNg4FuxOnX7eyNp++HVani229CvkTdgKd9gJ4DmdZB24fhOApAX3AYrUhyvYt5MteIDyHqJIHJxrIWYr7eYY+qo1w81ogGzUWIznUY6+j0ys8jVs7KFvzn1oLdBUIc75JS0bOHnWTnAnCk2jexgp+mmB4fbInRiw5K6YXkRXGoXZZBG3y4orB/168Rmstu7Mn+fgj3/NPmS1kUp37ZXPd/tkjS+YF6oPb89Ct+/4KHafM5QtzItacqstBQ45RNod9Jj0qLBmhAyZYGSljZyjLxSpep2xCq88Mey9lTHaTp1r1Wq4QE3rRMmzDaoB/b0sK+eH2LQTh6hQxnMDBmH4Br/QhZ6nGOzFwyOzfLtW9nbsr7j2Ei1WM9RzVr4KsSWqoBwSeUfsdTIDOpbO6qO7yhlxs3SsNIF44jiutFJVwMY6VFgl/k59UUAuGzumfIxu2dZjS7uK4vQCwD+hthXA/D/vc8UoIs1aRLyAFBGWoYuMHkHGq3ho04m9VgF7Yg8J9BgBRzEgyPkp0P8yqJSl4r23oPtq+AhRFYA+AYYCbZ2IUnrEiJxHiDmGxyRYh/STkPzDjKkaq+DnjppqbkWunBlEooTxVXZLjQJL1UhpzySXF3VWXCelIqs4+21wtzQKVlDumihvYw6d/b1u62LDjqLESJEcy27dFUv2DLZXltJvL32K2mjSTNE7Sp1lnEvLWpf0kFaR4c28/nldUiJJs111UadTkyChZ7JHotXLV0qCpXONiXIvs+Td9OlCvKfmFvmPuYadxixLIR5K+Ywaf4M/4ee8VgAAAA=) format('woff2')}
+.cn{font-family:'Kuaile','Microsoft YaHei','PingFang SC',sans-serif}
+.en{font-family:'Fredoka','Segoe UI',sans-serif;font-weight:600}
+.ink{stroke:#2d2a45;stroke-linejoin:round;stroke-linecap:round}
+.bounce{transform-box:fill-box;transform-origin:50% 100%;animation:bounce 1.6s ease-in-out infinite}
+@keyframes bounce{0%,100%{transform:translateY(0) scale(1.08,.92)}30%{transform:translateY(-16px) scale(.94,1.06)}55%{transform:translateY(-20px) scale(.97,1.03)}80%{transform:translateY(0) scale(1.1,.9)}}
+.shadow{transform-box:fill-box;transform-origin:50% 50%;animation:shadow 1.6s ease-in-out infinite}
+@keyframes shadow{0%,100%{transform:scaleX(1.05)}45%{transform:scaleX(.7);opacity:.5}}
+.blink{transform-box:fill-box;transform-origin:50% 50%;animation:blink 4s infinite}
+@keyframes blink{0%,90%,100%{transform:scaleY(1)}94%{transform:scaleY(.1)}}
+.twinkle{transform-box:fill-box;transform-origin:50% 50%;animation:twinkle 2.2s ease-in-out infinite}
+@keyframes twinkle{0%,100%{transform:scale(1) rotate(0)}50%{transform:scale(.55) rotate(45deg);opacity:.6}}
+.drift{animation:drift 9s ease-in-out infinite alternate}
+@keyframes drift{from{transform:translateX(-14px)}to{transform:translateX(14px)}}
+
+</style>
+<rect x="8" y="8" width="302" height="56" rx="29" fill="#2d2a45"/>
+<rect class="ink" x="3" y="3" width="302" height="56" rx="29" fill="#ffe08a" stroke-width="4"/>
+<g transform="translate(36 31) scale(1.05)"><path class="ink twinkle" style="animation-delay:0s"
+d="M0 -13 Q2.5 -2.5 13 0 Q2.5 2.5 0 13 Q-2.5 2.5 -13 0 Q-2.5 -2.5 0 -13 Z" fill="#ff8fab" stroke-width="2.5"/></g>
+<text class="cn" x="60" y="41" font-size="27" fill="#2d2a45">最近在做的小东西</text>
+</svg>

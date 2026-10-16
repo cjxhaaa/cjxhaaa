@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="231" height="66" viewBox="0 0 231 66">
+<style>
+@font-face{font-family:'Kuaile';src:url(data:font/woff2;base64,d09GMgABAAAAAAQYAA0AAAAABxwAAAPJAAIAQgAAAAAAAAAAAAAAAAAAAAAAAAAAHCAGYABcEQgKhSyESgE2AiQDHAsQAAQgBYNeByAMBxvIBQgeg207eYxVTpIUFPnnzMfD8/ejzn0TnWBNWVSJ46NVtrZa1tbgCbwj+o/Hy2/SvFLMVg5WWSr9sHSX/5yFP39NfnicnHR0yCd09oOuVgkWaVVGA40I8AmMZzggn7k1DfIhqI287Koxxp69QaBYqxDYVFUDCXZyIQPIzZmETQRr0pMVH8BiHyf2ISMyoYtRCL+L7a1KAg5C59lQvOP/kSDnBcwEApL0E0AnDAk5qIUL1ELmgHKFknyd6z3YZ5K8bnHdh/4P/MXsef3oxcGLzoy+O2oQYL50IqOiuACUy8VfQKwCgNyzFHKk59QXIuTkE4yC7Nxc7JC0mi41l/MZiqRIWlaBWSbkMaDcUIQrKZkyVEaNkKwHf1/bk1aKFIyZFDGlFM1Q1FNL2o7lNWMhBcxHqwllpEMFU6pspMocgpStZBFTxZCkiJaFyW9iv3mOhOCK2aQJIV+eQDIUSRoohhQwDC2qp4nqi1qmkS2SNdFRWptUsbhBMbIiB1JmHBaS8vayTrQYOjKn9Gjgj8kasVPs5IJSYvH0WNf6gS0pSfW67Y9itMZbOk+ziZkT4LR8NeZidEes6fa49MRJ/tiZcy9EDE0Fn8PUF4YwOza9pdZOUhOc/tPP24atT7ZlIeutz7abVRC/2ppQ3qcv2F2yyLafGuS3dXl5jW2f7CayCElZ5Dr6zRm06Ya923Cxk++uY+6O8Oq/x8SdC73tPZdfPekU54w5LYwzBvkK6z2ta387Wu+Ys9Cuqt61O2yuxq/+8oaaU37/poyWrrbVB43Bfz1XzumaG98mSHQTXnLApm7ArSTrcazvTk979ogX/lDXOxwbd88BDbzsjY1cjaDlpAU/+XmpfHhDTjrR1SHZ2c2SnNXf+vfJLVbd35MJsU17/3NuZF1CHSR3Ahxf/Agtm9A0Py1AuCMPPfgd6bjlvLt8Fa9s6mxeBQAEkon2u8dGS12Lvtnh+Ev4NzRAAMDzj75TISg7iffFbYF8CQR/Ab2kGEHwkoURChIfLLhEQjFkQ35ukN8IssgQBBxIZ4dtuMi1B74DpIVGu7Wk3F8tx7iHWq7BCNLyNAfv9Xz9IQECp0Mvnelp6XQVJkOadHkFkwtQXyZEaNasQZh63cjpNRC4RSHMMSCqbLicmtyVDqezLsLEaYe76oC1BVKl0tKTE3WjkEKJY15eyuFomahpcCy66iJV71zMMUlmdACm0eK94TaJtXiSiVxnGVKkxfqkkJBAJUJhqi8DkjVaDN+Ij9LUoanef0+YdSfsXNzBLFuG3K/xf5/ROA==) format('woff2')}
+.cn{font-family:'Kuaile','Microsoft YaHei','PingFang SC',sans-serif}
+.en{font-family:'Fredoka','Segoe UI',sans-serif;font-weight:600}
+.ink{stroke:#2d2a45;stroke-linejoin:round;stroke-linecap:round}
+.bounce{transform-box:fill-box;transform-origin:50% 100%;animation:bounce 1.6s ease-in-out infinite}
+@keyframes bounce{0%,100%{transform:translateY(0) scale(1.08,.92)}30%{transform:translateY(-16px) scale(.94,1.06)}55%{transform:translateY(-20px) scale(.97,1.03)}80%{transform:translateY(0) scale(1.1,.9)}}
+.shadow{transform-box:fill-box;transform-origin:50% 50%;animation:shadow 1.6s ease-in-out infinite}
+@keyframes shadow{0%,100%{transform:scaleX(1.05)}45%{transform:scaleX(.7);opacity:.5}}
+.blink{transform-box:fill-box;transform-origin:50% 50%;animation:blink 4s infinite}
+@keyframes blink{0%,90%,100%{transform:scaleY(1)}94%{transform:scaleY(.1)}}
+.twinkle{transform-box:fill-box;transform-origin:50% 50%;animation:twinkle 2.2s ease-in-out infinite}
+@keyframes twinkle{0%,100%{transform:scale(1) rotate(0)}50%{transform:scale(.55) rotate(45deg);opacity:.6}}
+.drift{animation:drift 9s ease-in-out infinite alternate}
+@keyframes drift{from{transform:translateX(-14px)}to{transform:translateX(14px)}}
+
+</style>
+<rect x="8" y="8" width="221" height="56" rx="29" fill="#2d2a45"/>
+<rect class="ink" x="3" y="3" width="221" height="56" rx="29" fill="#ffc8dd" stroke-width="4"/>
+<g transform="translate(36 31) scale(1.05)"><path class="ink twinkle" style="animation-delay:0s"
+d="M0 -13 Q2.5 -2.5 13 0 Q2.5 2.5 0 13 Q-2.5 2.5 -13 0 Q-2.5 -2.5 0 -13 Z" fill="#ffd166" stroke-width="2.5"/></g>
+<text class="cn" x="60" y="41" font-size="27" fill="#2d2a45">常用的工具</text>
+</svg>
