@@ -1,6 +1,10 @@
-<h2 align="center">你好，我是 cjxhaaa 👋</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:5b8cff,100:7b4dff&amp;height=180&amp;section=header&amp;text=cjxhaaa&amp;fontSize=56&amp;fontColor=ffffff&amp;fontAlignY=36&amp;animation=fadeIn" alt="cjxhaaa" width="100%">
+</p>
 
-<p align="center">喜欢做让电脑更顺手的小工具 · 最近在用 Rust + Tauri 写 Windows 桌面应用</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&amp;weight=500&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=7B4DFF&amp;center=true&amp;vCenter=true&amp;width=560&amp;height=40&amp;lines=%E5%96%9C%E6%AC%A2%E5%81%9A%E8%AE%A9%E7%94%B5%E8%84%91%E6%9B%B4%E9%A1%BA%E6%89%8B%E7%9A%84%E5%B0%8F%E5%B7%A5%E5%85%B7;%E6%9C%80%E8%BF%91%E5%9C%A8%E7%94%A8%20Rust%20%2B%20Tauri%20%E5%86%99%20Windows%20%E6%A1%8C%E9%9D%A2%E5%BA%94%E7%94%A8;DiskMate%20%C2%B7%20slime%20%C2%B7%20%E6%9B%B4%E5%A4%9A%E5%9C%A8%E8%B7%AF%E4%B8%8A" alt="喜欢做让电脑更顺手的小工具 · 最近在用 Rust + Tauri 写 Windows 桌面应用">
+</p>
 
 ### 🛠️ 最近在做
 
@@ -23,11 +27,24 @@
 
 ### 🧰 常用
 
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Tauri](https://img.shields.io/badge/Tauri-24C8DB?logo=tauri&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust,ts,react,tauri,go,python&amp;theme=dark">
+    <img src="https://skillicons.dev/icons?i=rust,ts,react,tauri,go,python&amp;theme=light" alt="Rust · TypeScript · React · Tauri · Go · Python">
+  </picture>
+</p>
 
-<sub>更早还写过一些 Go / Python 的小项目（爬虫、代理池、跳表……），都在仓库列表里。</sub>
+<p align="center"><sub>更早还写过一些 Go / Python 的小项目（爬虫、代理池、跳表……），都在仓库列表里。</sub></p>
+
+### 🐍 贡献
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cjxhaaa/cjxhaaa/output/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/cjxhaaa/cjxhaaa/output/github-snake.svg" alt="一条贪吃蛇沿着贡献格子吃过去">
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:5b8cff,100:7b4dff&amp;height=100&amp;section=footer" alt="" width="100%">
+</p>
