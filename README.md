@@ -29,7 +29,7 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust,ts,react,tauri,go,python&amp;theme=dark">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust%2Cts%2Creact%2Ctauri%2Cgo%2Cpython&amp;theme=dark">
     <img src="https://skillicons.dev/icons?i=rust,ts,react,tauri,go,python&amp;theme=light" alt="Rust · TypeScript · React · Tauri · Go · Python">
   </picture>
 </p>
